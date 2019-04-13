@@ -1,5 +1,4 @@
-/* XerXes - Most powerful dos tool - THN (http://www.thehackernews.com) */
-
+// ======= Please use it for the right purpose - NDT
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
